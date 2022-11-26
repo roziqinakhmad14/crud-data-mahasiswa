@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+body {
+    background-image: url('../image/bg.png');
+    background-size: 400px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+aside {
+    position: fixed;
+}
+.content {
+    height: 100vh;
+}
